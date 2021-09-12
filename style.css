@@ -1,0 +1,91 @@
+#nvbr{
+    background-color: white;
+    
+}
+body{
+  background-color:#F8F8F8;
+}
+#brandimg{
+    margin-right: 90px;
+}
+.nav-item{
+    font-size:18px;
+    
+}
+.roboto{
+    font-family: roboto,sans-serif;
+    font-size: 45px;
+}
+.ubuntu{
+  font-family: ubuntu,sans-serif;
+}
+.jumbotron{
+    background-color:#F8F8F8;
+    
+}
+#para{
+    font-size: 20px;
+}
+#overlayexpl {
+    position: relative;
+  }
+  
+  .img-responsive {
+    width: 100%;
+    height: auto;
+  }
+  
+  #buttnover {
+    position: absolute;
+   
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+  }
+  #explorebut{
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-top:15px;
+    padding-bottom: 15px;
+
+  }
+  
+  #buttnover:before {
+    content: ' ';
+    display: block;
+   
+    height: 85px;
+  }
+.oxygen{
+  font-family: 'Oxygen', sans-serif;
+}
+.card{
+  
+  
+  border-radius: 20px;
+}
+#commentimage{
+  background-color:#F8F8F8;
+  border:none;
+}
+#comments{
+  border: 2px solid #ddd;
+border-radius:  10px;
+
+
+}
+#quotessvg{
+
+  position:absolute;
+  
+  
+}
+#footerlink{
+  color:white;
+}
+#footerlink:hover{
+  color: #DD643E;
+  
+}
