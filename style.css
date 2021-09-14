@@ -4,6 +4,7 @@
 }
 body{
   background-color:#F8F8F8;
+  
 }
 #brandimg{
     margin-right: 90px;
@@ -77,7 +78,7 @@ border-radius:  10px;
 
 }
  @media only screen and (min-width: 780px) and (max-width: 2000px) {
-  .container .row .comments{
+  .container .row .sociallog{
     width:50%;}
   
   }
