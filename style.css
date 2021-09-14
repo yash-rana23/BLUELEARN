@@ -76,6 +76,16 @@ border-radius:  10px;
 
 
 }
+ @media only screen and (min-width: 780px) and (max-width: 2000px) {
+  .comments{
+    width:50%;}
+  
+  }
+
+  @media only screen and (min-width: 320px) and (max-width: 767px) {
+    #comments{
+      width:100%;}
+    }
 #quotessvg{
 
   position:absolute;
