@@ -1,3 +1,3 @@
 # BLUELEARN-CLONE
 I MADE CLONE OF A  WEBSITE  BLUELEARN (ONLY FRONT-END)
-https://yash-rana23.github.io/BLUELEARN-CLONE/
+https://bluelearn.netlify.app/
